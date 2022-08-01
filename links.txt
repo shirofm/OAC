@@ -1,0 +1,22 @@
+#mes
+06
+#frango sc
+http://comexstat.mdic.gov.br/pt/geral/53274
+#frango br
+http://comexstat.mdic.gov.br/pt/geral/62564
+#suinos sc
+http://comexstat.mdic.gov.br/pt/geral/53274
+#suinos br
+http://comexstat.mdic.gov.br/pt/geral/62564
+#bovinos sc
+http://comexstat.mdic.gov.br/pt/geral/53274
+#bovinos br
+http://comexstat.mdic.gov.br/pt/geral/62564
+#perus sc
+http://comexstat.mdic.gov.br/pt/geral/53274
+#perus br
+http://comexstat.mdic.gov.br/pt/geral/62564
+#patos sc
+http://comexstat.mdic.gov.br/pt/geral/53274
+#patos br
+http://comexstat.mdic.gov.br/pt/geral/62564
